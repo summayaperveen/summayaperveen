@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @summayaperveen
 - 👀 I’m interested in poetry.
 - 🌱 I’m currently learning software engineering.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me on linkedin app.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i am a member of uet media society.
 
