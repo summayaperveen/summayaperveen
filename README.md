@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @summayaperveen
+- 👋 Hi, I’m @faryal fida
 - 👀 I’m interested in poetry.
 - 🌱 I’m currently learning software engineering.
 - 💞️ I’m looking to collaborate on projects.
